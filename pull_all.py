@@ -3,8 +3,8 @@ import subprocess
 
 # 🎯 Folders to scan for Git repos
 base_dirs = [
-    "C:/Users/[xxx]",
-    "C:/Users/[xxx]/[xxx]/"
+    "C:/Users/[xxx]",        # Enter your Git repos here
+    "C:/Users/[xxx]/[xxx]/"  # Enter your Git repos here
 ]
 
 # 🎨 Color codes
